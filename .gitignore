@@ -3,3 +3,8 @@ node_modules/
 dist/
 *.tsbuildinfo
 .env
+/build
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
